@@ -4,7 +4,7 @@ For a full presentation of the project and explaination of the code, you can dir
 
 How to see the notebook:
 1. Get Mathematica by WolframAlpha
-2. Download the file one_trillion_trees.nb
+2. Download the file OneTrillionTrees.nb
 3. Open the notebook with Mathematica and allow dynamics cells
 4. Running the notebook is not required.
 
