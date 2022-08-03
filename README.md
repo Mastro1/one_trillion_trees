@@ -2,12 +2,14 @@
 
 For a full presentation of the project and explaination of the code, you can directly jump into our [video](https://youtu.be/AL5joc94T5I).
 
+### Installation
 How to see the notebook:
 1. Get Mathematica by WolframAlpha
 2. Download the file OneTrillionTrees.nb
 3. Open the notebook with Mathematica and allow dynamics cells
 4. Running the notebook is not required.
 
+### Description
 This project on Climate Sustainability addresses a very pertinent question inspired by Dr Mesnage's and Professor Vlachos' research paper: Is a Trillion Trees Enough? 
 In practice, we sought to assess whether planting trees in desert areas could have a significant impact in reducing global average temperature (GAT) by sequestering CO2 emissions from the atmosphere. As the climate emergency is exacerbating, this could be incremental in designing climate mitigation strategies that align with Paris targets. We achieved this by using WL to build climate models and experiment with different parameters such as albedo change to evaluate possible outcomes. Interactive tools for understanding the effect of planting the trees are also available thanks to Mathematica language. 
 
